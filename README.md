@@ -1,4 +1,4 @@
-# Pyhton_Games
+# Python_Games
 Código feito com com base nos cursos da Alura.
 
 Este projeto contem 3 arquivos .py (jogos.py - adivinhacao.py - forca.py),
